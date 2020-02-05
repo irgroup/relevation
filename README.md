@@ -1,5 +1,6 @@
 # Relevation!
 
+v1.1 - Fixes for the Stella Project.
 
 _Relevation: A raising or lifting up._ - Wiktionary
 
